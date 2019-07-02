@@ -1,3 +1,3 @@
 <?php
-	echo "Welcome in Github Community.";
+	echo "Welcome Swatantra in Github Community.";
  ?>
